@@ -1,0 +1,33 @@
+nav {
+    margin-top: 25px;
+  }
+
+  nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+  }
+
+  nav ul {
+    float: right;
+  }
+  
+  nav li {
+    float: left;
+    padding-right: 2px;
+  }
+
+  
+  
+  footer section p{
+    padding: 50px 0;
+    line-height: 1.5em;
+    text-align: center;
+    color: #aaa;
+  }
+
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+  
+
+  
